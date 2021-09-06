@@ -1,9 +1,3 @@
 language: node_js
 node_js:
-  -14.17.0
-
-before install:
- git checkout gh_pages
- 
-branches:
-    - gh-pages
+  -14

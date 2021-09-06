@@ -3,4 +3,4 @@ node_js:
   - 12
 branches:
   only:
-  -gh_pages  
+   -gh_pages  

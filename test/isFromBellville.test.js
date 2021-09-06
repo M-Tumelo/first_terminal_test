@@ -1,5 +1,5 @@
 let assert = require("assert");
-let isFromBellville = require("../functions/IsFromBellville");
+let isFromBellville = require("../functions/isFromBellville");
 //TestCase for isFromBellville function
 describe('This test is testing the isFromBellville function' , function(){
     it('should return True that it is from Bellville' , function(){

@@ -45,6 +45,6 @@ describe('This test is testing the findItemsOver function' , function(){
         assert.deepEqual(results2, findItemsOver(itemList2,20));    
     });
     it('should equal to the result3 variable' , function(){
-        assert.deepEqual(results3, findItemsOvercd(itemList3,20));
+        assert.deepEqual(results3, findItemsOver(itemList3,20));
        });
 });

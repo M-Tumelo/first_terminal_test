@@ -1,5 +1,5 @@
 let assert = require("assert");
-let countAllRegNumber = require("../functions/countRegNumber");
+let countRegNumber = require("../functions/countRegNumber");
 //TestCase for countAllRegNumber function
 describe('This test is testing the countAllRegNumber function' , function(){
     it('should return the number of registrations in a string, i.e., this string should return 2' , function(){

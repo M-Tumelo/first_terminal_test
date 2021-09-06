@@ -1,5 +1,5 @@
 let assert = require("assert");
-let isWeekday = require("../functions/IsWeekday");
+let isWeekday = require("../functions/isWeekday");
 //TestCase for isWeekday function
 describe('This test is testing the isWeekday function' , function(){
     it('should return true for Monday' , function(){
